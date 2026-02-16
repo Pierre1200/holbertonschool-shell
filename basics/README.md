@@ -14,3 +14,4 @@
 -Ajout d'un script cd -.
 -Ajout d'un script ls -la . .. /boot.
 -Ajout d'un script file.
+-Ajout d'un script ln.
