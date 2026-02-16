@@ -7,4 +7,5 @@
 -Ajout d'un script ls -l.
 -Ajout d'un script ls -la.
 -Ajout d'un script la -lan.
--Ajout d'un script créaation de répertoire.
+-Ajout d'un script mkdir.
+-Ajout d'un script mv.
