@@ -10,3 +10,4 @@
 -Ajout d'un script mkdir.
 -Ajout d'un script mv.
 -Ajout d'un script rm.
+-Ajout d'un script rmdir.
