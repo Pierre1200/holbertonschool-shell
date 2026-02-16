@@ -9,3 +9,4 @@
 -Ajout d'un script la -lan.
 -Ajout d'un script mkdir.
 -Ajout d'un script mv.
+-Ajout d'un script rm.
