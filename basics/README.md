@@ -11,4 +11,4 @@
 -Ajout d'un script mv.
 -Ajout d'un script rm.
 -Ajout d'un script rmdir.
--Ajout d'un script cd ...
+-Ajout d'un script cd -.
