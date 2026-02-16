@@ -13,3 +13,4 @@
 -Ajout d'un script rmdir.
 -Ajout d'un script cd -.
 -Ajout d'un script ls -la . .. /boot.
+-Ajout d'un script file.
